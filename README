@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1975
+
+Detalized and nice-looking color scheme with dark background.
+Can be used in gui and 256 color terminal.
+Highlights statusline in insert mode.
+Improved highlighting for c, cpp, ruby and javascript languages.
+
+Also following option is recommended (put it to your .vimrc):
+set fillchars=vert:\ ,fold:\ " <- trailing space
